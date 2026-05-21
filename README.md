@@ -1,11 +1,8 @@
-Here is the complete, fully updated `README.md`. I have expanded the portfolio section to include all 10 projects, categorizing them cleanly and adding professional context regarding the enterprise scale, reward systems, and high-profile brands you've built solutions for.
-
-```markdown
 # Hi there, I'm Mohit! 👋
 
 I am a **Full Stack Software Engineer and IT Consultant** with over 5 years of professional experience specializing in the **LAMP/LEMP stack** and the **Laravel ecosystem**. I focus on building sustainable, creative technological solutions to solve real-world business problems. 
 
-Throughout my career, I have specialized in developing robust microsites, loyalty platforms, and scalable web applications. Beyond code, I am a massive open-source advocate, an active tech community participant, and deeply interested in finance and economics.
+Throughout my career, I have specialized in developing robust microsites, loyalty platforms, and scalable web applications. Beyond code, I am a open-source advocate, an active tech community participant, and apart from tech I am interested in sports, finance and economics.
 
 🌐 **Explore my work:** [mohitpawar10.dev](https://www.mohitpawar10.dev/)
 
@@ -48,15 +45,12 @@ Below are production-ready applications, enterprise loyalty engines, and tailore
 
 ### 🚀 What's Next?
 
-*   **Open Source Collaboration:** As a long-time Linux user and advocate for open-source tech, I am actively looking to contribute to web-based open-source projects (especially within the PHP/Laravel and Vue.js ecosystems).
-*   **Community:** You can usually find me at local tech meetups, WordCamps, and backend engineering conferences. 
+*   **Open Source Collaboration:** As a long-time Linux user and advocate for open-source tech, I am actively looking to contribute to web-based open-source projects (especially within the PHP/Laravel ecosystems).
+*   **Community:** You can usually find me at local tech meetups and engineering conferences. 
 
 ---
 
 ### 📫 Connect with me
 
 *   **Website:** [mohitpawar10.dev](https://www.mohitpawar10.dev/)
-*   **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username) *(Replace with your actual link!)*
-
-
-```
+*   **LinkedIn:** [https://www.linkedin.com/in/mohit-pawar-95468578/](https://www.linkedin.com/in/mohit-pawar-95468578/))
