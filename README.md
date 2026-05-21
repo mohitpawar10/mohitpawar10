@@ -2,7 +2,7 @@
 
 I am a **Full Stack Software Engineer and IT Consultant** with over 5 years of professional experience specializing in the **LAMP/LEMP stack** and the **Laravel ecosystem**. I focus on building sustainable, creative technological solutions to solve real-world business problems. 
 
-Throughout my career, I have specialized in developing robust microsites, loyalty platforms, and scalable web applications. Beyond code, I am a open-source advocate, an active tech community participant, and apart from tech I am interested in sports, finance and economics.
+Throughout my career, I have specialized in developing robust microsites, loyalty platforms, and scalable web applications. Beyond code, I am a massive open-source advocate, an active tech community participant, and deeply interested in finance and economics.
 
 🌐 **Explore my work:** [mohitpawar10.dev](https://www.mohitpawar10.dev/)
 
@@ -36,21 +36,22 @@ Below are production-ready applications, enterprise loyalty engines, and tailore
 
 #### 🚀 Brand Microsites & Commercial Applications
 *   [**The Wedding Filmer**](https://www.theweddingfilmer.com/) – A highly customized, media-rich portfolio and commercial business showcase site tailored for high-performance asset delivery and elegant user interactions.
-*   **Microsite for BIBA** – A fast, campaign-oriented digital experience designed for targeted product launches and retail customer engagement.
+*   [**Chef-Mate Golden Getaway Promotion**](http://demo.brandmovers.net/nest17004/) – A fast, campaign-oriented promotional experience designed for high consumer engagement and instant-win rewards tracking.
+*   [**Currys Carphone Project**](https://demo.brandmovers.net/tbkg17001/) – A transactional and campaign web module engineered for the major European electronics and telecommunications retail group.
+*   **Microsite for BIBA** – A sleek digital experience designed for targeted product launches and retail customer engagement.
 *   **Disney UK Project** – A secure, immersive entertainment-focused web deployment built to high-security international standards.
-*   **Currys Carphone Project** – A transactional and campaign web module engineered for the major European electronics and telecommunications retail group.
 *   **Movienights UK** – A digital event booking and promotion microsite optimizing modern web asset deliveries for media consumers.
 
 ---
 
 ### 🚀 What's Next?
 
-*   **Open Source Collaboration:** As a long-time Linux user and advocate for open-source tech, I am actively looking to contribute to web-based open-source projects (especially within the PHP/Laravel ecosystems).
-*   **Community:** You can usually find me at local tech meetups and engineering conferences. 
+*   **Open Source Collaboration:** As a long-time Linux user and advocate for open-source tech, I am actively looking to contribute to web-based open-source projects (especially within the PHP/Laravel and Vue.js ecosystems).
+*   **Community:** You can usually find me at local tech meetups, WordCamps, and backend engineering conferences. 
 
 ---
 
 ### 📫 Connect with me
 
 *   **Website:** [mohitpawar10.dev](https://www.mohitpawar10.dev/)
-*   **LinkedIn:** [https://www.linkedin.com/in/mohit-pawar-95468578](https://www.linkedin.com/in/mohit-pawar-95468578)
+*   **LinkedIn:** [www.linkedin.com/in/mohit-pawar-95468578](https://www.linkedin.com/in/mohit-pawar-95468578))
