@@ -53,4 +53,4 @@ Below are production-ready applications, enterprise loyalty engines, and tailore
 ### 📫 Connect with me
 
 *   **Website:** [mohitpawar10.dev](https://www.mohitpawar10.dev/)
-*   **LinkedIn:** [https://www.linkedin.com/in/mohit-pawar-95468578/](https://www.linkedin.com/in/mohit-pawar-95468578/))
+*   **LinkedIn:** [https://www.linkedin.com/in/mohit-pawar-95468578/](https://www.linkedin.com/in/mohit-pawar-95468578/)
